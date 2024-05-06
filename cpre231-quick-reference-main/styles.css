@@ -1,0 +1,9 @@
+.selectable-card {
+	user-select: none;
+	cursor: pointer;
+	transition: 0.2s;
+}
+
+.selectable-card:hover {
+	transform: scale(1.1);
+}
